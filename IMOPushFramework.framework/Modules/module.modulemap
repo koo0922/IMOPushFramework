@@ -1,0 +1,11 @@
+framework module IMOPushFramework {
+  umbrella header "IMOPushFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module IMOPushFramework.Swift {
+    header "IMOPushFramework-Swift.h"
+    requires objc
+}
