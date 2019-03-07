@@ -15,4 +15,4 @@ FOUNDATION_EXPORT double IMOPushFrameworkVersionNumber;
 FOUNDATION_EXPORT const unsigned char IMOPushFrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <IMOPushFramework/PublicHeader.h>
-//#import <IMOPushFramework/IMOPushFramework-Swift.h>
+#import <IMOPushFramework/IMOPushFramework-Swift.h>
